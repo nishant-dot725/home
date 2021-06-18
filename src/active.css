@@ -66,25 +66,19 @@
     margin-top: 150px !important;
 }
 @media (max-width:1000px){
-    body{
-        overflow: hidden;
-    }
+   
     .animated{
         margin-left: 200px;
     }
 }
 @media (max-width:900px){
-    body{
-        overflow: hidden;
-    }
+
     .animated{
         margin-left: 100px;
     }
 }
 @media (max-width:800px){
-    body{
-        overflow: hidden;
-    }
+ 
     .animated{
         margin-bottom: -300px;
         margin-left: 50px;
